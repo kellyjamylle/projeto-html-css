@@ -1,0 +1,31 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+header{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+ }
+ header img{
+    width: 7vw;
+    height: 10vh;
+    margin: 2em;
+
+ }
+.cafe{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+
+
+}
+.cafe img {
+    border-radius: 1em; 
+    width: 50%;
+    -webkit-box-shadow: 51px 26px 75px -7px rgba(0,0,0,0.81);
+-moz-box-shadow: 51px 26px 75px -7px rgba(0,0,0,0.81);
+box-shadow: 51px 26px 75px -7px rgba(0,0,0,0.81);
+
+}
